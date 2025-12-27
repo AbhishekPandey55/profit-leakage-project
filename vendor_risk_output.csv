@@ -1,0 +1,6 @@
+"vendor_name","month","profit","risk_level"
+"Vendor B","2024-01-01 00:00:00+05:30","10000","Low Risk"
+"Vendor A","2024-01-01 00:00:00+05:30","15000","Low Risk"
+"Vendor A","2024-02-01 00:00:00+05:30","-5000","Medium Risk"
+"Vendor C","2024-02-01 00:00:00+05:30","50000","Low Risk"
+"Vendor B","2024-03-01 00:00:00+05:30","-10000","Medium Risk"
