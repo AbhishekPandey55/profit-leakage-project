@@ -41,21 +41,6 @@
 - Enables data-driven decision-making
 
 
-
-# 🚀 Skills Demonstrated
-- SQL querying & data analysis
-- Business logic implementation in Python
-- Data visualization using Power BI
-- End-to-end project execution
-- Analytical thinking & problem solving
-
-
-# 👔 Suitable Job Roles
-- Data Analyst
-- Business Analyst
-- Junior Analytics Engineer
-- Entry-level AI/Data Roles
-
-
+
 # Conclusion-
 This project demonstrates how raw transaction data can be transformed into actionable business insights using analytics and visualization tools. It reflects real-world industry use cases and is suitable for early-career analytics roles.
